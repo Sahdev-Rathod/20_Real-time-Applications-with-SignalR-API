@@ -22,5 +22,7 @@ namespace Day20SignalRChat.Controllers
 
             return Ok(messages);
         }
+
+        
     }
 }
